@@ -8,3 +8,5 @@ Age Demographics
 Top Spenders  
 Most Popular Items  
 Most Profitable Items  
+  
+Analysis:  
